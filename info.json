@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "João Gilberto - 10 - Bim Bom-8iTiR0znyP4.mp4",
+            "path": "music_z2/videos/João Gilberto - 10 - Bim Bom-8iTiR0znyP4.mp4",
+            "size": 1.932867584
+        },
+        {
             "name": "Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
             "path": "music_z2/videos/Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
             "size": 31.345774592
@@ -17,5 +22,5 @@
             "size": 11.019132928000001
         }
     ],
-    "total_size": 59.38336460800001
+    "total_size": 61.316232192
 }
