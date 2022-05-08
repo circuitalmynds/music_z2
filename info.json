@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Do You Wanna Get Funky With Me-EyGslKalCRM.mp4",
+            "path": "music_z2/videos/Do You Wanna Get Funky With Me-EyGslKalCRM.mp4",
+            "size": 11.019132928000001
+        }
+    ],
+    "total_size": 11.019132928000001
 }
