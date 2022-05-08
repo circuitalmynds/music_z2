@@ -2,10 +2,15 @@
     "available_space": true,
     "files": [
         {
+            "name": "Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
+            "path": "music_z2/videos/Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
+            "size": 31.345774592
+        },
+        {
             "name": "Do You Wanna Get Funky With Me-EyGslKalCRM.mp4",
             "path": "music_z2/videos/Do You Wanna Get Funky With Me-EyGslKalCRM.mp4",
             "size": 11.019132928000001
         }
     ],
-    "total_size": 11.019132928000001
+    "total_size": 42.36490752
 }
