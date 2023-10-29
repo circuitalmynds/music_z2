@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "58EVXuu6ZLE",
@@ -44,13 +44,6 @@
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Chopin Rondo Op.1 (Ashkenazy)-sSeviT0uwLE.mp4?raw=true"
         },
         {
-            "id": "E12HzANr3pM",
-            "name": "01Julio Iglesias - De niña a mujer-E12HzANr3pM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/01Julio Iglesias - De niña a mujer-E12HzANr3pM.mp4",
-            "size": 8.595699999999999,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/01Julio Iglesias - De niña a mujer-E12HzANr3pM.mp4?raw=true"
-        },
-        {
             "id": "OnfXXT4Fx4U",
             "name": "Control Machete - La Lupita-OnfXXT4Fx4U.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Control Machete - La Lupita-OnfXXT4Fx4U.mp4",
@@ -73,13 +66,6 @@
         },
         {
             "id": "2YocxcVEbqQ",
-            "name": "justice - Audio, Video, Disco (Full Album)-2YocxcVEbqQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/justice - Audio, Video, Disco (Full Album)-2YocxcVEbqQ.mp4",
-            "size": 62.96227,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/justice - Audio, Video, Disco (Full Album)-2YocxcVEbqQ.mp4?raw=true"
-        },
-        {
-            "id": "2YocxcVEbqQ",
             "name": "Justice - Audio, Video, Disco (Full Album)-2YocxcVEbqQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Justice - Audio, Video, Disco (Full Album)-2YocxcVEbqQ.mp4",
             "size": 53.657221,
@@ -98,13 +84,6 @@
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Chimonos Chimonos - Amenaza Cordillerana (Full Album)-NhGVNS6vF5U.mp4",
             "size": 71.456471,
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Chimonos Chimonos - Amenaza Cordillerana (Full Album)-NhGVNS6vF5U.mp4?raw=true"
-        },
-        {
-            "id": "j2fbOAyNOpM",
-            "name": "Stardust - Hoagy Carmichael - Original Version-j2fbOAyNOpM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Stardust - Hoagy Carmichael - Original Version-j2fbOAyNOpM.mp4",
-            "size": 5.316286,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Stardust - Hoagy Carmichael - Original Version-j2fbOAyNOpM.mp4?raw=true"
         },
         {
             "id": "IBqVspvYCmk",
@@ -135,6 +114,20 @@
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Weber - Euryanthe – Ouvertüre ∙ hr-Sinfonieorchester ∙ Daniel Smith-5fms_rSB99c.mp4?raw=true"
         },
         {
+            "id": "daP2N1JPv3s",
+            "name": "Martha Argerich et Charles Dutoit (1972) [daP2N1JPv3s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Martha Argerich et Charles Dutoit (1972) [daP2N1JPv3s].mp4",
+            "size": 49.420702,
+            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Martha Argerich et Charles Dutoit (1972) [daP2N1JPv3s].mp4?raw=true"
+        },
+        {
+            "id": "i56xzNLvQDQ",
+            "name": "Underworld - Jumbo [i56xzNLvQDQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Underworld - Jumbo [i56xzNLvQDQ].mp4",
+            "size": 10.137608,
+            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Underworld - Jumbo [i56xzNLvQDQ].mp4?raw=true"
+        },
+        {
             "id": "2w1Q8ZkXZ1Q",
             "name": "Aztec Camera - Somewhere In My Heart (Official Music Video)-2w1Q8ZkXZ1Q.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Aztec Camera - Somewhere In My Heart (Official Music Video)-2w1Q8ZkXZ1Q.mp4",
@@ -143,17 +136,10 @@
         },
         {
             "id": "qOGl0frz0Os",
-            "name": "Verliebte Eselsstreiche, Humoreske op.309-qOGl0frz0Os.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Verliebte Eselsstreiche, Humoreske op.309-qOGl0frz0Os.mp4",
-            "size": 13.52714,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Verliebte Eselsstreiche, Humoreske op.309-qOGl0frz0Os.mp4?raw=true"
-        },
-        {
-            "id": "ToLTFbQXJN4",
-            "name": "Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Prestissimo-ToLTFbQXJN4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Prestissimo-ToLTFbQXJN4.mp4",
-            "size": 8.327416999999999,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Prestissimo-ToLTFbQXJN4.mp4?raw=true"
+            "name": "Verliebte Eselsstreiche, Humoreske op.309 [qOGl0frz0Os].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Verliebte Eselsstreiche, Humoreske op.309 [qOGl0frz0Os].mp4",
+            "size": 12.078895,
+            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Verliebte Eselsstreiche, Humoreske op.309 [qOGl0frz0Os].mp4?raw=true"
         },
         {
             "id": "GY_RN80J9Z8",
@@ -163,13 +149,6 @@
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Conjunto Primavera - Algo De Mi (Video Oficial)-GY_RN80J9Z8.mp4?raw=true"
         },
         {
-            "id": "T-w-536da4c",
-            "name": "Jorge Cafrune - Yo he visto cantar al viento 1970-T-w-536da4c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Jorge Cafrune - Yo he visto cantar al viento 1970-T-w-536da4c.mp4",
-            "size": 83.643562,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Jorge Cafrune - Yo he visto cantar al viento 1970-T-w-536da4c.mp4?raw=true"
-        },
-        {
             "id": "IA88AS6Wy_4",
             "name": "Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4",
@@ -177,18 +156,18 @@
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Gregorio Allegri - Miserere-IA88AS6Wy_4.mp4?raw=true"
         },
         {
-            "id": "ijOO94XOsb8",
-            "name": "Dmitri Shostakovich - Gadfly Suite-ijOO94XOsb8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Dmitri Shostakovich - Gadfly Suite-ijOO94XOsb8.mp4",
-            "size": 39.936477,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Dmitri Shostakovich - Gadfly Suite-ijOO94XOsb8.mp4?raw=true"
-        },
-        {
             "id": "fk_xDw5qAus",
             "name": "Alessandro Marcello  - Adagio-fk_xDw5qAus.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Alessandro Marcello  - Adagio-fk_xDw5qAus.mp4",
             "size": 42.245349999999995,
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Alessandro Marcello  - Adagio-fk_xDw5qAus.mp4?raw=true"
+        },
+        {
+            "id": "ijOO94XOsb8",
+            "name": "Dmitri Shostakovich - Gadfly Suite [ijOO94XOsb8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Dmitri Shostakovich - Gadfly Suite [ijOO94XOsb8].mp4",
+            "size": 39.936477,
+            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Dmitri Shostakovich - Gadfly Suite [ijOO94XOsb8].mp4?raw=true"
         },
         {
             "id": "8iTiR0znyP4",
@@ -205,11 +184,11 @@
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/The Best of Rossini-nU_U1NH5QBs.mp4?raw=true"
         },
         {
-            "id": "i56xzNLvQDQ",
-            "name": "Underworld - Jumbo-i56xzNLvQDQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Underworld - Jumbo-i56xzNLvQDQ.mp4",
-            "size": 16.619587,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Underworld - Jumbo-i56xzNLvQDQ.mp4?raw=true"
+            "id": "T-w-536da4c",
+            "name": "Jorge Cafrune - Yo he visto cantar al viento 1970 [T-w-536da4c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Jorge Cafrune - Yo he visto cantar al viento 1970 [T-w-536da4c].mp4",
+            "size": 46.299299,
+            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Jorge Cafrune - Yo he visto cantar al viento 1970 [T-w-536da4c].mp4?raw=true"
         },
         {
             "id": "E12HzANr3pM",
@@ -224,14 +203,7 @@
             "path": "/home/alanmatzumiya/Videos/container/z2/videos/Die Dorfschönen, Ländler op.393-RC3SQxn1kEE.mp4",
             "size": 13.159948,
             "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Die Dorfschönen, Ländler op.393-RC3SQxn1kEE.mp4?raw=true"
-        },
-        {
-            "id": "daP2N1JPv3s",
-            "name": "Martha Argerich et Charles Dutoit (1972)-daP2N1JPv3s.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/z2/videos/Martha Argerich et Charles Dutoit (1972)-daP2N1JPv3s.mp4",
-            "size": 63.913591,
-            "url": "https://github.com/circuitalmynds/music_z2/blob/main/videos/Martha Argerich et Charles Dutoit (1972)-daP2N1JPv3s.mp4?raw=true"
         }
     ],
-    "total_size": 1063.889319
+    "total_size": 918.9202700000001
 }
